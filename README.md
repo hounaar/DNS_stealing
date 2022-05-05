@@ -4,8 +4,6 @@ DNSteal is a fake DNS server that allows us to extract files from a victim machi
 
 Below are a couple of different images showing examples of multiple file transfer and single verbose file transfer:
 
-![Alt text](http://i.imgur.com/nJsoAMv.png)
-
 * Support for multiple files
 * Gzip compression supported
 * Now supports the customisation of subdomains and bytes per subdomain and the length of filename
